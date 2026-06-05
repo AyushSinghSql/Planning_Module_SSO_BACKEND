@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\ssologinrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\ssologinrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\powerbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\powerbicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\planning_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:planning_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\models\\powerbisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:models\\powerbisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\models\\ssologinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:models\\ssologinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\models\\forecastreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:models\\forecastreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\forecastreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\forecastreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\controllers\\forecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:controllers\\forecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\repositories\\pl_forecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:repositories\\pl_forecastrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\services\\pl_forecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:services\\pl_forecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|c:\\users\\ayushsingh\\onedrive - revolve solutions pvt ltd\\deltos\\client\\lumina x finaxis\\backend\\planningapi\\dto\\poolratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA2CBF6-F3DF-CF1B-9AC8-2420BB750214}|Planning_API.csproj|solutionrelative:dto\\poolratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\FinAxis\\LUMINA\\Backend\\RAI\\PlanningAPI\\DTO\\IncomeStatementRowDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAEwEUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:33:12.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PowerBIController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\PowerBIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PowerBIController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\PowerBIController.cs",
+              "RelativeToolTip": "Controllers\\PowerBIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:40:30.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T17:29:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PowerBISettings.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\PowerBISettings.cs",
+              "RelativeDocumentMoniker": "Models\\PowerBISettings.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\PowerBISettings.cs",
+              "RelativeToolTip": "Models\\PowerBISettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T17:20:00.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwH4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:10:31.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAewCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:13:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:31:40.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wLwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T16:56:11.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SsoLoginRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\SsoLoginRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SsoLoginRequestController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\SsoLoginRequestController.cs",
+              "RelativeToolTip": "Controllers\\SsoLoginRequestController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:47:04.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T17:03:13.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Planning_API.csproj",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Planning_API.csproj",
+              "RelativeDocumentMoniker": "Planning_API.csproj",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Planning_API.csproj",
+              "RelativeToolTip": "Planning_API.csproj",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwDgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-04T22:36:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAIAwwJwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:19:47.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SsoLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\SsoLoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\SsoLoginRequest.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\SsoLoginRequest.cs",
+              "RelativeToolTip": "Models\\SsoLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:47:27.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForecastReport.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\ForecastReport.cs",
+              "RelativeDocumentMoniker": "Models\\ForecastReport.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Models\\ForecastReport.cs",
+              "RelativeToolTip": "Models\\ForecastReport.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAQwOcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:49:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ForecastController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ForecastController.cs",
+              "RelativeToolTip": "Controllers\\ForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:01:11.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PoolRateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\DTO\\PoolRateDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PoolRateDTO.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\DTO\\PoolRateDTO.cs",
+              "RelativeToolTip": "DTO\\PoolRateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:01:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForecastReportController.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ForecastReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ForecastReportController.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Controllers\\ForecastReportController.cs",
+              "RelativeToolTip": "Controllers\\ForecastReportController.cs",
+              "ViewState": "AgIAAG0DAAAAAAAAAAAowJ8DAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:33:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IncomeStatementRowDto.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\FinAxis\\LUMINA\\Backend\\RAI\\PlanningAPI\\DTO\\IncomeStatementRowDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\FinAxis\\LUMINA\\Backend\\RAI\\PlanningAPI\\DTO\\IncomeStatementRowDto.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\FinAxis\\LUMINA\\Backend\\RAI\\PlanningAPI\\DTO\\IncomeStatementRowDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\FinAxis\\LUMINA\\Backend\\RAI\\PlanningAPI\\DTO\\IncomeStatementRowDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T17:23:37.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pl_ForecastRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Repositories\\Pl_ForecastRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Pl_ForecastRepository.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Repositories\\Pl_ForecastRepository.cs",
+              "RelativeToolTip": "Repositories\\Pl_ForecastRepository.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAEwNQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:52:28.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Pl_ForecastService.cs",
+              "DocumentMoniker": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Services\\Pl_ForecastService.cs",
+              "RelativeDocumentMoniker": "Services\\Pl_ForecastService.cs",
+              "ToolTip": "C:\\Users\\AyushSingh\\OneDrive - Revolve Solutions pvt Ltd\\DELTOS\\CLIENT\\LUMINA x Finaxis\\Backend\\PlanningAPI\\Services\\Pl_ForecastService.cs",
+              "RelativeToolTip": "Services\\Pl_ForecastService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAjwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:51:34.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
