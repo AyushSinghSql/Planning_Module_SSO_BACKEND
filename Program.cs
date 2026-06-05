@@ -85,7 +85,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowLocalhost", policy =>
     {
-        policy.WithOrigins("http://localhost:5173") // Your React URL
+        policy.WithOrigins("http://localhost:5173", "https://planning-module-sso.vercel.app") // Your React URL
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials(); // Important for Auth
